@@ -1,0 +1,50 @@
+S/No.,S/ID,COI,cyt b,16S rRNA ,Predicted by HRMA,Vouchered ID,,Positive controls
+1,#2,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle,,Green sea turtle
+2,#4,Blue wildebeest,Blue wildebeest,Blue wildebeest,Blue wildebeest,Blue wildebeest,,Blue wildebeest
+3,#5,Zebra,Zebra,"Common Eland, Zebra",Zebra,Zebra,,Common eland
+4,#8,Green sea turtle,Poor amplification,Green sea turtle,Green sea turtle,Green sea turtle,,Bushpig
+5,#11,Zebra,Zebra,"Common eland, Goat, Zebra",Zebra,Zebra,,Impala
+6,#12,Common eland,Common eland,"Common eland, Cattle",Common eland,Common eland,,Donkey
+7,#13,Green see turtle,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle,,Dik dik
+8,#15,Poor amplification,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle,,Duiker
+9,#18,Common eland,Common eland,"Goat, Common eland, Zebra, Grant’s gazelle",Common eland,Common eland,,Elephant
+10,#19,Zebra,Zebra,"Zebra, Goat",Zebra,Zebra,,Warthog
+11,#24,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle,,Cattle
+12,#25,Zebra,Zebra,"Goat, Zebra",Zebra,Zebra,,Goat
+13,#26,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Goat",Grant’s gazelle,Grant’s gazelle,,Sheep
+14,#27,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Zebra, Goat",Grant’s gazelle,Grant’s gazelle,,Sable antelope
+15,#28,African forest elephant,African forest elephant,African forest elephant,Elephant,Elephant,,Pig
+16,#29,African savannah elephant inferred from external run,African savannah elephant inferred from external run,African savannah elephant inferred from external run,Elephant,Elephant,,Donkey
+17,#30,Poor amplification,African savannah elephant inferred from external run,African savannah elephant inferred from external run,Elephant,Elephant,,Waterbuck
+18,#34,African forest elephant,African forest elephant,African forest elephant,Elephant,Elephant,,
+19,#35,African savannah elephant inferred from external run,African savannah elephant inferred from external run,African savannah elephant inferred from external run,Elephant,Elephant,,
+20,#36,African savannah elephant inferred from external run,African savannah elephant inferred from external run,African savannah elephant inferred from external run,Elephant,Elephant,,
+21,#38,Impala,Impala,Impala,Impala,Impala,,
+22,#39,Impala,Impala,Impala,Impala,Impala,,
+23,#40,Impala,Impala,Impala,Impala,Impala,,
+24,#41,Impala,Impala,Impala,Impala,Impala,,
+25,#43,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Goat",Grant’s gazelle,Grant’s gazelle,,
+26,#44,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Goat",Grant’s gazelle,Grant’s gazelle,,
+27,#45,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Goat",Grant’s gazelle,Grant’s gazelle,,
+28,#48,"Dik dik, Donkey","Dik dik, Common duiker, Sable antelope",Dik dik,Dik dik,Dik dik,,
+29,#49,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Goat",Grant’s gazelle,Grant’s gazelle,,
+30,#50,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Goat",Grant’s gazelle,Grant’s gazelle,,
+31,#51,Zebra,Zebra,"Zebra, Common eland, Goat, Impala",Zebra,Zebra,,
+32,#52,Not Amplified,Donkey,Donkey,Donkey,Donkey,,
+33,#54,Common duiker,"Hartebeest, Blue wildebeest, Common duiker","Common eland, Cattle, Common duiker",Not predicted,Common duiker,,
+34,#55,Zebra,Zebra,"Zebra, Common eland, Goat, Impala",Zebra,Zebra,,
+35,#58,Zebra,Zebra,"Zebra, Common eland, Goat, Impala",Zebra,Zebra,,
+36,#59,Zebra,Zebra,"Zebra, Common eland, Goat, Impala",Zebra,Zebra,,
+37,#61,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Goat",Grant’s gazelle,Grant’s gazelle,,
+38,#62,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle, Goat",Grant’s gazelle,Grant’s gazelle,,
+39,#63,Waterbuck; shape variation,Waterbuck,Waterbuck; variant secondary peak,Not predicted,Waterbuck,,
+40,#64,"Common eland, #69",Common eland in shape; shifted peak,"Dik, Pig,#69, Common eland in shape; shifted peak",Not predicted,Common eland,,
+41,#65,Impala,"African forest elephant, Impala in shape; shifted peak","Common eland, Zebra, matching Impala in one peak; lacking a secondary peak",Impala,Impala,,
+42,#66,"Dik dik, Donkey",Dik dik,Dik dik,Dik dik,Dik dik,,
+43,#67,"Dik dik, Donkey",Dik dik,Dik dik,Dik dik,Dik dik,,
+44,#68,"Dik dik, Donkey",Dik dik,Dik dik,Dik dik,Dik dik,,
+45,#69,Common eland,"Closer to Common eland; far from impala, possible contamination","Dik dik, Pig, Common eland",Not predicted,Impala,,
+46,#70,Dik; shifted peak,Not Amplified,"Green sea turtle, Dik dik; shape variantion",Not predicted,Dik-dik,,
+47,#71,African forest elephant,African forest elephant,African forest elephant,Elephant,Elephant,,
+48,#72,African forest elephant,African forest elephant,African forest elephant,Elephant,Elephant,,
+49,#73,"Common eland, Dik dik, Donkey","Common eland, #69","Common eland, #69",Common eland,Common eland,,
