@@ -1,0 +1,37 @@
+Common name,Species,Family,Tissue,Blood,Total,Seq_id_COI,Seq_id_cyt b
+Cow,Bos taurus,Bovidae,2,4,6,MN124245,MN124208
+Goat,Capra hircus,Bovidae,1,1,2,MN124246,MN124209
+Sheep,Ovies aries,Bovidae,1,1,2,MN124247,MN124210
+Donkey,Equus africanus asinus,Equidae,1,0,1,MN124248,MN124211
+Pig,Sus scrofa,Suidae,1,0,1,MN124249,MN124212
+Camel,Camelus dromedarius,Camelidae,0,1,1,MN124250,MN124213
+Rabbit,Oryctolagus cuniculus,Leporidae,1,0,1,MN124251,MN124214
+Turkey,Meleagris gallopavo,Phasianidae,1,0,1,MN124252,MN124215
+Chicken,Gallus gallus,Phasianidae,1,1,2,MN124253,MN124216
+Domestic cat,Felis catus,Felidae,1,0,1,MN124254,MN124217
+Waterbuck,Kobus ellipsiprymnus,Bovidae,3,0,3,MN124255,MN124218
+African buffalo,Syncerus caffer,Bovidae,4,4,8,MN124256,MN124219
+Impala,Aepyceros melampus,Bovidae,4,0,4,MN124257,MN124220
+Grant’s gazelle,Nanger granti,Bovidae,1,0,1,MN124258,MN124221
+Common duiker,Sylvicapra grimmia,Bovidae,3,0,3,MN124259,MN124222
+Blue wildebeest,Connochaetes taurinus,Bovidae,5,2,7,MN124260,MN124223
+Hartebeest,Alcelaphus buselaphus,Bovidae,1,1,2,MN124261,MN124224
+Sable antelope,Hippotragus niger,Bovidae,0,2,2,KY628416*,MN124225
+Eland,Tragelaphus oryx,Bovidae,2,0,2,MN124262,MN124226
+Kirk’s dik-dik,Madoqua Kirkii,Bovidae,1,0,1,MN124263,MN124227
+Giraffe,Giraffa camelopardalis,Giraffidae,4,2,6,MN124264,MN124228
+Bushbuck,Tragelaphus scriptus,Bovidae,1,2,3,MN124265,MN124229
+Bushpig,Potamochoerus porcus,Suidae,2,0,2,MN124266,MN124230
+Warthog,Phacochoerus africanus,Suidae,2,2,4,MN124267,MN124231
+Chapman’s zebra,Equus burchellii chapmani,Equidae,2,0,2,MN124268,MN124243
+Grevyi’s zebra,Equus grevyi,Equidae,0,2,2,MN124269,MN124232
+Plain zebra,Equus burchellii quagga,Equidae,2,2,4,MN124270,MN124233
+Savannah elephant,Loxodonta africana africana,Elephantidae,2,4,6,MN124271,MN124234
+‘Forest’ elephant,Loxodonta africana cyclotis,Elephantidae,0,2,2,MN124272,MN124235
+Black rhino,Diceros bicornis,Rhinocerotidae,0,4,4,MN124273,MN124236
+White rhino,Ceratotherium simus,Rhinocerotidae,0,5,5,MN124274,MN124237
+Lion,Panthera leo,Felidae,3,3,6,MN124275,MN124238
+Leopard,Panthera pardus,Felidae,0,2,2,MN124276,MN124244
+Cheetah,Acinonyx jubatus,Felidae,0,3,3,MN124277,EF056507*
+Green sea turtle,Chelonia mydas,Cheloniidae,4,0,4,MN124278,MN124239
+Logger head sea turtle,Caretta caretta,0,1,0,1,MN124279,MN124240

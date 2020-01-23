@@ -1,0 +1,50 @@
+S/No.,S/ID,COI,cyt b,16S rRNA ,Predicted by HRMA,Vouchered ID
+1,#2,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle
+2,#4,Blue wildebeest,Blue wildebeest,Blue wildebeest,Blue wildebeest,Blue wildebeest
+3,#5,Zebra,Zebra,Zebra (also common eland),Zebra,Zebra
+4,#8,Green sea turtle,Poor amplification,Green sea turtle,Green sea turtle,Green sea turtle
+5,#11,Zebra,Zebra,"Zebra (also common eland, goat)",Zebra,Zebra
+6,#12,Common eland,Common eland,Common eland (also cattle),Common eland,Common eland
+7,#13,Green see turtle,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle
+8,#15,Poor amplification,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle
+9,#18,Common eland,Common eland,"Common eland (also goat, zebra, Grant’s gazelle)",Common eland,Common eland
+10,#19,Zebra,Zebra,Zebra (also goat),Zebra,Zebra
+11,#24,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle,Green sea turtle
+12,#25,Zebra,Zebra,Zebra (also goat),Zebra,Zebra
+13,#26,Grant’s gazelle,Grant’s gazelle,Grant’s gazelle (also goat),Grant’s gazelle,Grant’s gazelle
+14,#27,Grant’s gazelle,Grant’s gazelle,"Grant’s gazelle (also goat, zebra)",Grant’s gazelle,Grant’s gazelle
+15,#28,African ‘forest’ elephant,African ‘forest’ elephant,African ‘forest’ elephant,African ‘forest’ elephant,Elephant
+16,#29,African savannah elephant,African savannah elephant,African savannah elephant,African savannah elephant,Elephant
+17,#30,Poor amplification,African savannah elephant,African savannah elephant,African savannah elephant,Elephant
+18,#34,African ‘forest’ elephant,African ‘forest’ elephant,African ‘forest’ elephant,African ‘forest’ elephant,Elephant
+19,#35,African savannah elephant,African savannah elephant,African savannah elephant,African savannah elephant,Elephant
+20,#36,African savannah elephant,African savannah elephant,African savannah elephant,African savannah elephant,Elephant
+21,#38,Impala,Impala,Impala,Impala,Impala
+22,#39,Impala,Impala,Impala,Impala,Impala
+23,#40,Impala,Impala,Impala,Impala,Impala
+24,#41,Impala,Impala,Impala,Impala,Impala
+25,#43,Grant’s gazelle,Grant’s gazelle,Grant’s gazelle (also goat),Grant’s gazelle,Grant’s gazelle
+26,#44,Grant’s gazelle,Grant’s gazelle,Grant’s gazelle (also goat),Grant’s gazelle,Grant’s gazelle
+27,#45,Grant’s gazelle,Grant’s gazelle,Grant’s gazelle (also goat),Grant’s gazelle,Grant’s gazelle
+28,#48,"Dik-dik, donkey","Dik-dik, common duiker, sable antelope",Dik-dik,Dik-dik,Dik-dik
+29,#49,Grant’s gazelle,Grant’s gazelle,Grant’s gazelle (also goat),Grant’s gazelle,Grant’s gazelle
+30,#50,Grant’s gazelle,Grant’s gazelle,Grant’s gazelle (also goat),Grant’s gazelle,Grant’s gazelle
+31,#51,Zebra,Zebra,"Zebra (also common eland, goat, impala)",Zebra,Zebra
+32,#52,Not Amplified,Donkey,Donkey,Donkey,Donkey
+33,#54,Common duiker,"Common duiker (also hartebeest, blue wildebeest)","Common duiker (also common eland, cattle)",Common eland (low confidence),Common duiker
+34,#55,Zebra,Zebra,"Zebra (also common eland, goat, impala)",Zebra,Zebra
+35,#58,Zebra,Zebra,"Zebra (also common eland, goat, impala)",Zebra,Zebra
+36,#59,Zebra,Zebra,"Zebra (also common eland, goat, impala)",Zebra,Zebra
+37,#61,Grant’s gazelle,Grant’s gazelle,Grant’s gazelle (also goat),Grant’s gazelle,Grant’s gazelle
+38,#62,Grant’s gazelle,Grant’s gazelle,Grant’s gazelle (also goat),Grant’s gazelle,Grant’s gazelle
+39,#63,Waterbuck (shape variation),Waterbuck,Waterbuck (with variant secondary peak),Waterbuck (low confidence),Waterbuck
+40,#64,Common eland,"Common eland (in shape, shifted peak)","Dik-dik, pig, common eland (in shape, shifted peak)",Common eland (low confidence),Common eland
+41,#65,Impala,"African ‘forest’ elephant, Impala (in shape, shifted peak)","Impala (also common eland, zebra)",Impala,Impala
+42,#66,"Dik dik, donkey",Dik-dik,Dik-dik,Dik-dik,Dik-dik
+43,#67,"Dik-dik, donkey",Dik-dik,Dik-dik,Dik-dik,Dik-dik
+44,#68,"Dik-dik, donkey",Dik-dik,Dik-dik,Dik-dik,Dik-dik
+45,#69,Common eland,Common eland (far from impala),"Dik-dik, pig, common eland",Common eland (low confidence),Impala
+46,#70,Dik-dik (shifted peak),Not amplified,"Green sea turtle, dik-dik (shape variation)",Dik-dik (low confidence),Dik-dik
+47,#71,African ‘forest’ elephant,African ‘forest’ elephant,African ‘forest’ elephant,African ‘forest’ elephant,Elephant
+48,#72,African ‘forest’ elephant,African ‘forest’ elephant,African ‘forest’ elephant,African ‘forest’ elephant,Elephant
+49,#73,"Common eland, dik dik, donkey",Common eland,Common eland,Common eland,Common eland
