@@ -1,4 +1,4 @@
-Common name,Species,Family,Tissue,Blood,Total,Seq_id_COI,Seq_id_cyt b
+Common name,Species,Family,Tissue,Blood,Total
 Cow,Bos taurus,Bovidae,2,4,6,MN124245,MN124208
 Goat,Capra hircus,Bovidae,1,1,2,MN124246,MN124209
 Sheep,Ovies aries,Bovidae,1,1,2,MN124247,MN124210
