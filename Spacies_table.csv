@@ -1,5 +1,4 @@
 Common name,Species,Family,Tissue,Blood,Total,Seq_id_COI,Seq_id_cyt b
-Common name,Species,Family,Tissue,Blood,Total,Seq_id_COI,Seq_id_cyt b
 Cow,Bos taurus,Bovidae,2,4,6,MN124245,MN124208
 Goat,Capra hircus,Bovidae,1,1,2,MN124246,MN124209
 Sheep,Ovies aries,Bovidae,1,1,2,MN124247,MN124210
@@ -36,4 +35,3 @@ Leopard,Panthera pardus,Felidae,0,2,2,MN124276,MN124244
 Cheetah,Acinonyx jubatus,Felidae,0,3,3,MN124277,EF056507*
 Green sea turtle,Chelonia mydas,Cheloniidae,4,0,4,MN124278,MN124239
 Logger head sea turtle,Caretta caretta,0,1,0,1,MN124279,MN124240
-Cow,Bos taurus,Bovidae,2,4,6,MN124245,MN124208
